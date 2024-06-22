@@ -6,9 +6,9 @@ import java.sql.ResultSet;
 import java.util.Scanner;
 
 public class Main {
-        public static final String DB_URL ="jdbc:mysql://127.0.0.1:3306/hotel_reservation_system";
+        public static final String DB_URL ="";
         public static final String username ="root";
-        public static final String password ="12113114";
+        public static final String password ="";
 
     public static void main(String[] args) {
         try{
